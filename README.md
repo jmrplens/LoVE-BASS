@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://jmrplens.com/GitHub_LoVEBASS/logo-square.png" width="20%"></img>
 
-**Loudspeakers for Vented Enclosures: a Backwards Approach for Speaker Selection**
+<h3 align="center"><b> Loudspeakers for Vented Enclosures: a Backwards Approach for Speaker Selection </b></h3>
 </p>
 
 - Software bajo pruebas y verificación.
