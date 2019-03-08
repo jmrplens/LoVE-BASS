@@ -2,6 +2,7 @@
 <img src="https://jmrplens.com/GitHub_LoVEBASS/logo-square.png" width="20%"></img>
 
 <h3 align="center"><b> Loudspeakers for Vented Enclosures: a Backwards Approach for Speaker Selection </b></h3>
+<h3 align="center"><b> V0.8 (March 2019) </b></h3>
 </p>
 
 - Software bajo pruebas y verificación.
