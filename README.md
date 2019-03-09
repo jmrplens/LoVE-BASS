@@ -37,13 +37,13 @@ En este caso se analiza uno a uno cada altavoz de la base de datos y se modifica
 
 Un ejemplo de los resultados se muestra a continuación:
 
-<img src="https://jmrplens.com/GitHub_LoVEBASS/resulparametros.png" width="45%"></img>
+<img src="https://jmrplens.com/GitHub_LoVEBASS/resulparametrosn.png" width="45%"></img>
 
 Como se puede observar se ofrecen 4 altavoces que ofrecen las respuestas más aproximadas a lo buscado pero fijando alguno de los parametros (máximo SPL, mínimo f3, minimo volumen de la caja, mínimo tamaño del puerto). Además se puede afinar aun más el resultados modificando la frecuencia de la caja, el volumen de la caja y el SPL máximo y observando gráficamente el resultado.
 
 Es posible seleccionar múltiples altavoces de la tabla para representarlos conjuntamente y compararlos:
 
-<img src="https://jmrplens.com/GitHub_LoVEBASS/plotconjunto.png" width="45%"></img>
+<img src="https://jmrplens.com/GitHub_LoVEBASS/plotconjunton.png" width="45%"></img>
 
 En la opción `File->Export result list` se puede exportar la tabla completa de resultados en formato texto, Excel o M-file.
 
@@ -54,7 +54,7 @@ En la opción `File->Export result list` se puede exportar la tabla completa de 
 En este caso se calculan los parámetros de un altavoz hipotético o que se prevee fabricar con los parámetros iniciales (imagen superior). Si en algún caso se excede de las posibilidades físicas de un altavoz se mostrará una o varias advertencias indicando los problemas del diseño elegido.
 Las representaciones y los datos mostrados se calculan cada vez que se modifica algún parámetro.
 
-<img src="https://jmrplens.com/GitHub_LoVEBASS/resulcustom.png" width="45%"></img>
+<img src="https://jmrplens.com/GitHub_LoVEBASS/resulcustomn.png" width="45%"></img>
 
 ---
 <a id="research-hidden-options"></a>
@@ -79,11 +79,11 @@ A continuación se describen la opciones que se habilitan al activar el modo _re
 A través de unos parámetros buscados para el conjunto final de caja+altavoz se calculan los parametros de todos los altavoces contenidos en la base de datos (es editable y ampliable fácilmente) y se muestran todos los modelos válidos que pueden ofrecer esos parámetros buscados al inicio. Todos los modelos se pueden analizar, tanto todos los parámetros electroacústicos como sus curvas de SPL y desplazamiento del cono.
 Se incluye el cálculo de las dimensiones del puerto y la potencia a aplicar al altavoz entre otros parámetros, un resultado típico sería el siguiente:
 
-<img src="https://jmrplens.com/GitHub_LoVEBASS/resulalineamiento.png" width="45%"></img>   <img src="https://jmrplens.com/GitHub_LoVEBASS/resulalineamiento2.png" width="45%"></img>
+<img src="https://jmrplens.com/GitHub_LoVEBASS/resulalineamienton.png" width="45%"></img>   <img src="https://jmrplens.com/GitHub_LoVEBASS/resulalineamiento2n.png" width="45%"></img>
 
 Es posible seleccionar múltiples altavoces de la tabla para representarlos conjuntamente y compararlos:
 
-<img src="https://jmrplens.com/GitHub_LoVEBASS/plotconjunto.png" width="45%"></img>
+<img src="https://jmrplens.com/GitHub_LoVEBASS/plotconjunton.png" width="45%"></img>
 
 En la opción `File->Export result list` se puede exportar la tabla completa de resultados en formato texto, Excel o M-file.
 
