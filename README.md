@@ -25,7 +25,7 @@
 
 <a id="informaci%C3%B3n-general"></a>
 ### Información general
-Aplicación para el diseño inverso de cajas abiertas (bass reflex) utilizando base de datos o alineamiento
+Aplicación para el diseño inverso de cajas abiertas (bass reflex) utilizando base de datos o alineamiento.
 La aplicación, desarrolada con App Designer de MATLAB®, dispone de varias opciones explicadas a continuación.
 
 ---
