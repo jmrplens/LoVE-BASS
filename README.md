@@ -9,6 +9,33 @@
 - Requiere MATLAB R2018 o posterior. 
 - Compatible con Windows y Mac OS.
 
+#### Instaladores (No requiere MATLAB)
+
+<table>
+    <thead>
+        <tr>
+            <th>OS</th>
+            <th>Installers</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=2>Mac OS</td>
+            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-v0.8/LoVE-BASS_v0.8_ONLINE_MacOS.zip">Online (requires internet connection)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-v0.8/LoVE-BASS_v0.8_OFFLINE_MacOS.zip">Standalone</a></td>
+        </tr>
+        <tr>
+            <td rowspan=2>Windows</td>
+            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-v0.8/LoVE-BASS_v0.8_ONLINE_Windows.zip">Online (requires internet connection)</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-v0.8/LoVE-BASS_v0.8_OFFLINE_Windows.zip">Standalone</a></td>
+        </tr>
+    </tbody>
+</table>
+
 ## Índice
 <!-- MarkdownTOC -->
 
