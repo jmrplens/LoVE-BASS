@@ -15,23 +15,23 @@
     <thead>
         <tr>
             <th>OS</th>
-            <th>Installers v0.8.0</th>
+            <th>Installers</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td rowspan=2>Mac OS</td>
-            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-v0.8/LoVE-BASS_v0.8_ONLINE_MacOS.zip">Online (requires internet connection)</a></td>
+            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-v0.8.5/LoVE-BASS_v0.8.5_ONLINE_MacOS.zip">Online (requires internet connection)</a></td>
         </tr>
         <tr>
-            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-v0.8/LoVE-BASS_v0.8_OFFLINE_MacOS.zip">Standalone</a></td>
+            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-v0.8.5/LoVE-BASS_v0.8.5_OFFLINE_MacOS.zip">Standalone</a></td>
         </tr>
         <tr>
             <td rowspan=2>Windows</td>
-            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-v0.8/LoVE-BASS_v0.8_ONLINE_Windows.zip">Online (requires internet connection)</a></td>
+            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-v0.8.5/LoVE-BASS_v0.8.5_ONLINE_Windows.zip">Online (requires internet connection)</a></td>
         </tr>
         <tr>
-            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-v0.8/LoVE-BASS_v0.8_OFFLINE_Windows.zip">Standalone</a></td>
+            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-v0.8.5/LoVE-BASS_v0.8.5_OFFLINE_Windows.zip">Standalone</a></td>
         </tr>
     </tbody>
 </table>
