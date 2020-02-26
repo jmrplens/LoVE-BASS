@@ -55,6 +55,9 @@
 Aplicación para el diseño inverso de cajas abiertas (bass reflex) utilizando base de datos o alineamiento.
 La aplicación, desarrolada con App Designer de MATLAB®, dispone de varias opciones explicadas a continuación.
 
+#### Voice Coil Magazine
+Articulo de presentación del software en la revista Voice Coil: <a href="https://jmrplens.com/Publicaciones/VoiceCoilJuly2019.pdf" target="_blank">Descargar artículo</a>
+
 ---
 <a id="par%C3%A1metros--base-de-datos"></a>
 #### Parámetros + Base de datos
