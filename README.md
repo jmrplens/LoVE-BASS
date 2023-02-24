@@ -21,17 +21,17 @@
     <tbody>
         <tr>
             <td rowspan=2>Mac OS</td>
-            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-0.9/LoVE-BASS_v0.9_ONLINE_MacOS.zip">Online (requires internet connection)</a></td>
+            <td><a href="https://github.com/jmrplens/LoVE-BASS/releases/download/1.0/LoVE-BASS.v0.9.-.MacOS.Online.installer.zip">Online (requires internet connection)</a></td>
         </tr>
         <tr>
-            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-0.9/LoVE-BASS_v0.9_OFFLINE_MacOS.zip">Standalone</a></td>
+            <td><a href="https://github.com/jmrplens/LoVE-BASS/releases/download/1.0/LoVE-BASS.v0.9.-.MacOS.Standalone.zip">Standalone</a></td>
         </tr>
         <tr>
             <td rowspan=2>Windows</td>
-            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-0.9/LoVE-BASS_v0.9_ONLINE_Windows.zip">Online (requires internet connection)</a></td>
+            <td><a href="https://github.com/jmrplens/LoVE-BASS/releases/download/1.0/LoVE-BASS.v0.9.-.Windows.Online.installer.zip">Online (requires internet connection)</a></td>
         </tr>
         <tr>
-            <td><a href="https://jmrplens.com/GitHub_LoVEBASS/installers-0.9/LoVE-BASS_v0.9_OFFLINE_Windows.zip">Standalone</a></td>
+            <td><a href="https://github.com/jmrplens/LoVE-BASS/releases/download/1.0/LoVE-BASS.v0.9.-.Windows.Standalone.zip">Standalone</a></td>
         </tr>
     </tbody>
 </table>
