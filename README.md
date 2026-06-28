@@ -130,5 +130,5 @@ Tambien está previsto actualizar y ampliar la base de datos.
 ---
 <a id="desarrolladores"></a>
 ### Desarrolladores
-* Jose Manuel Requena Plens (info@jmrplens.com ; https://jmrplens.com)
+* Jose Manuel Requena Plens (https://jmrplens.com)
 * Francisco Sales Castells Ramón (fcastells@eln.upv.es ; http://www.upv.es/ficha-personal/fracasra)
